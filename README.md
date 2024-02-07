@@ -6,6 +6,7 @@ installation
 Step of Cloning the system
 
 Install gitbash on this link or git clone "git clone https://github.com/git/git"
+
 open the apache directory on "C:\xampp\htdocs"
 
 Create folder with name "Project_RS"
@@ -13,4 +14,4 @@ Create folder with name "Project_RS"
 clik right on your mouse,clik "open gitbash here "
 
 run this command
-Command : 
+Command : gh repo clone Rahelsimanjuntak/Project_Pertama_RS
